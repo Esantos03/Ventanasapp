@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065916454480",
+    "project_id": "ventanasapp-88e05",
+    "storage_bucket": "ventanasapp-88e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065916454480:android:5397a464c68cd8c1a0a355",
+        "android_client_info": {
+          "package_name": "com.oplinf.ventanasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065916454480-t5tba0g0hcb49t8jtcfub8t8bk4d8bn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oplinf.ventanasapp",
+            "certificate_hash": "beb1bd7dbeb556c2bb616444a4e06e4343651ee3"
+          }
+        },
+        {
+          "client_id": "1065916454480-kp2b8996ifbbgdbd2to0ph4vqans69qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GquFCpH3lfAENiECxUUZHsBhft1qNVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065916454480-kp2b8996ifbbgdbd2to0ph4vqans69qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
